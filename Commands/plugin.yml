@@ -1,0 +1,14 @@
+    name: Commands
+    main: me.Avagdu.commands.Commands
+    version: 1.0
+    description: >
+                 Essentials type Commands Plugin.
+    commands:
+      heal:
+        description: Heals The/A Player
+      h:
+        description: Heals The/A Player
+      extinguish:
+        description: Extinguishes Fire on The/A Player
+      ex:
+        description: Extinguishes Fire on The/A Player
